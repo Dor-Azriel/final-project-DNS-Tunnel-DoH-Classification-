@@ -1,0 +1,4 @@
+requests~=2.27.1
+dnspython~=2.1.0
+scapy~=2.4.5
+pandas~=1.4.2
